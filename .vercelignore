@@ -1,0 +1,9 @@
+.git
+.github
+.project-os
+tests
+docs
+README.md
+package.json
+package-lock.json
+node_modules
